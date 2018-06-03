@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: 1de56e0d74d5e784a8bfcbe0cda6d11b
+timeCreated: 1428446448
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Camera001
+    100002: Camera001.Target
+    100004: Camera002
+    100006: Camera002.Target
+    100008: Camera003
+    100010: Camera003.Target
+    100012: Camera004
+    100014: Camera004.Target
+    100016: Camera005
+    100018: Camera005.Target
+    100020: Helper001
+    100022: Helper001 1
+    100024: Helper001 10
+    100026: Helper001 11
+    100028: Helper001 2
+    100030: Helper001 3
+    100032: Helper001 4
+    100034: Helper001 5
+    100036: Helper001 6
+    100038: Helper001 7
+    100040: Helper001 8
+    100042: Helper001 9
+    100044: Helper002
+    100046: Helper002 1
+    100048: Helper002 2
+    100050: Helper003
+    100052: Helper003 1
+    100054: Helper003 2
+    100056: Helper004
+    100058: Helper004 1
+    100060: Helper004 2
+    100062: Helper005
+    100064: Helper005 1
+    100066: Helper005 2
+    100068: Helper006
+    100070: Helper006 1
+    100072: Helper006 2
+    100074: Omni002
+    100076: Omni003
+    100078: Omni004
+    100080: Scene
+    100082: Seam
+    100084: //RootNode
+    100086: T-shirt
+    100088: T-shirt 1
+    100090: VRayLight001
+    100092: VRayLight001.Target
+    100094: VRayLight002
+    100096: VRayLight002.Target
+    400000: Camera001
+    400002: Camera001.Target
+    400004: Camera002
+    400006: Camera002.Target
+    400008: Camera003
+    400010: Camera003.Target
+    400012: Camera004
+    400014: Camera004.Target
+    400016: Camera005
+    400018: Camera005.Target
+    400020: Helper001
+    400022: Helper001 1
+    400024: Helper001 10
+    400026: Helper001 11
+    400028: Helper001 2
+    400030: Helper001 3
+    400032: Helper001 4
+    400034: Helper001 5
+    400036: Helper001 6
+    400038: Helper001 7
+    400040: Helper001 8
+    400042: Helper001 9
+    400044: Helper002
+    400046: Helper002 1
+    400048: Helper002 2
+    400050: Helper003
+    400052: Helper003 1
+    400054: Helper003 2
+    400056: Helper004
+    400058: Helper004 1
+    400060: Helper004 2
+    400062: Helper005
+    400064: Helper005 1
+    400066: Helper005 2
+    400068: Helper006
+    400070: Helper006 1
+    400072: Helper006 2
+    400074: Omni002
+    400076: Omni003
+    400078: Omni004
+    400080: Scene
+    400082: Seam
+    400084: //RootNode
+    400086: T-shirt
+    400088: T-shirt 1
+    400090: VRayLight001
+    400092: VRayLight001.Target
+    400094: VRayLight002
+    400096: VRayLight002.Target
+    2300000: Seam
+    2300002: T-shirt 1
+    3300000: Seam
+    3300002: T-shirt 1
+    4300000: T-shirt
+    4300002: Seam
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+﻿/////////////////////////////////////////////////////////////////////////////////
+//
+//	Name: DeniszPop
+//  ScriptName: ItemInterface.cs
+//	Website: www.deniszpop.co.uk
+//  Note: 
+//	Description: The 'ItemInterface'
+//
+//              © DeniszPop. All Rights Reserved.
+/////////////////////////////////////////////////////////////////////////////////
+
+public interface IItemInterface
+{
+    void UseItem();
+}
